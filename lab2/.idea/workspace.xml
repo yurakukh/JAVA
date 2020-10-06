@@ -1,59 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="799b524d-056d-47e5-b99a-a1bee1639679" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Pract1/out/production/Pract #1/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pract1/out/production/Pract #1/com/company/Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pract1/src/Classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pract1/src/Classes/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="771a1b3b-b138-4afe-a1eb-8ce4b31a5258" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1iBIlpXqGTRbyKzNcnaYmTJSUHR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1iUqMEuRm2zbJ37zBd0fgdAymtj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyDataStructures.Main" />
       <module name="lab2" />
       <extension name="coverage">
@@ -66,36 +31,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
-      <module name="lab2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Main" />
-      <module name="lab2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -103,66 +40,42 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="799b524d-056d-47e5-b99a-a1bee1639679" name="Default Changelist" comment="" />
-      <created>1601374712164</created>
+      <changelist id="771a1b3b-b138-4afe-a1eb-8ce4b31a5258" name="Default Changelist" comment="" />
+      <created>1601972474459</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601374712164</updated>
+      <updated>1601972474459</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="267" key="#Notifications" timestamp="1601465841404">
+    <state x="574" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1601972869494">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="522" y="267" key="#Notifications/0.30.1536.834@0.30.1536.834" timestamp="1601465841404" />
-    <state x="574" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1601556889717">
+    <state x="574" y="153" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1601972869494" />
+    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601972520997">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="574" y="153" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1601556889717" />
-    <state x="551" y="341" width="474" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601468790693">
+    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1536.834@0.30.1536.834" timestamp="1601972520997" />
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom" timestamp="1601975069689">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="551" y="341" width="474" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.30.1536.834@0.30.1536.834" timestamp="1601468790693" />
-    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601557606011">
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1601975069689" />
+    <state width="1493" height="297" key="GridCell.Tab.0.center" timestamp="1601975069689">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1536.834@0.30.1536.834" timestamp="1601557606011" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1601558687134">
+    <state width="1493" height="297" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1601975069689" />
+    <state width="1493" height="297" key="GridCell.Tab.0.left" timestamp="1601975069688">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1601558687134" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1601558687133">
+    <state width="1493" height="297" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1601975069688" />
+    <state width="1493" height="297" key="GridCell.Tab.0.right" timestamp="1601975069689">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1601558687133" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1601558687133">
+    <state width="1493" height="297" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1601975069689" />
+    <state x="425" y="204" key="run.anything.popup" timestamp="1601973423947">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1601558687133" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1601558687134">
-      <screen x="0" y="30" width="1536" height="834" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1601558687134" />
-    <state x="325" y="153" width="981" height="711" key="SettingsEditor" timestamp="1601467613996">
-      <screen x="0" y="30" width="1536" height="834" />
-    </state>
-    <state x="325" y="153" width="981" height="711" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1601467613996" />
-    <state x="209" y="67" key="new project wizard" timestamp="1601558687032">
-      <screen x="0" y="30" width="1536" height="834" />
-    </state>
-    <state x="209" y="67" key="new project wizard/0.30.1536.834@0.30.1536.834" timestamp="1601558687032" />
+    <state x="425" y="204" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1601973423947" />
   </component>
 </project>
